@@ -18,6 +18,6 @@ int main()
 			res=res+suma;
 		}
 	}
-		cout<<res;  //0 1 1 2 3 5 8 13 21 34+20 
+		cout<<res; 
 	return 0;
 }
